@@ -13,6 +13,6 @@ Overall objective:
 4, Document the results on public Moja Global documentation and offer a template to users looking to try the above.  
 
 
-## I have added what I have done in the past month, see the notebook: 
+### I have added what I have done in the past month, see the notebook: https://github.com/ZSS57/MojaGlobalContribution/blob/main/Outreachy-MojaGlobal-Project1%20(1).ipynb
 
-## I also added a proposal, see here: 
+### I also added a proposal, please see here: https://github.com/ZSS57/MojaGlobalContribution/blob/main/Proposal.pdf
